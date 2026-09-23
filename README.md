@@ -9,8 +9,9 @@
 [![Mozilla AMO](https://img.shields.io/badge/Firefox%20AMO-v1.2.0%20Verified-ea580c?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/firefox/addon/vortex-downloader/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.2.1%20Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
 [![License](https://img.shields.io/badge/License-Freeware-purple?style=for-the-badge)](https://vortexdownloader.org/#pricing)
+[![Wikidata](https://img.shields.io/badge/Wikidata-Q141496440-006699?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141496440)
 
-[🌐 Official Website](https://vortexdownloader.org) • [📚 Documentation Hub](https://vortexdownloader.org/docs/) • [⚡ Vortex vs IDM Benchmark](https://vortexdownloader.org/blog/vortex-vs-idm/) • [🐛 Report an Issue](https://github.com/Hammadshaikh1994/vortex-downloader/issues)
+[🌐 Official Website](https://vortexdownloader.org) • [📚 Documentation Hub](https://vortexdownloader.org/docs/) • [⚡ Vortex vs IDM Benchmark](https://vortexdownloader.org/blog/vortex-vs-idm/) • [🏛️ Wikidata Knowledge Base](https://www.wikidata.org/wiki/Q141496440) • [🐛 Report an Issue](https://github.com/Hammadshaikh1994/vortex-downloader/issues)
 
 ---
 
@@ -85,6 +86,7 @@ Explore the official [Vortex Documentation Hub](https://vortexdownloader.org/doc
 ## 🛡️ Security, Privacy & Integrity
 
 * **Zero Data Telemetry:** Vortex does not harvest browsing logs, personal identifiers, or downloaded content metadata.
+* **Knowledge Graph Entity:** Officially cataloged in the open knowledge base on [Wikidata (Q141496440)](https://www.wikidata.org/wiki/Q141496440).
 * **Official Support Email:** [support@vortexdownloader.org](mailto:support@vortexdownloader.org)
 * **Website:** [https://vortexdownloader.org](https://vortexdownloader.org)
 
