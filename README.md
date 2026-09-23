@@ -4,10 +4,10 @@
 
 **The Universal High-Velocity Multi-Thread Accelerator, 8K Stream Sniffer & Media Workstation for Windows**
 
-[![Release](https://img.shields.io/badge/Release-v1.1.1%20Stable-9333ea?style=for-the-badge&logo=windows&logoColor=white)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)
+[![Release](https://img.shields.io/badge/Release-v1.1.2%20Stable-9333ea?style=for-the-badge&logo=windows&logoColor=white)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-3b82f6?style=for-the-badge&logo=windows11&logoColor=white)](https://vortexdownloader.org/)
 [![Mozilla AMO](https://img.shields.io/badge/Firefox%20AMO-v1.2.0%20Verified-ea580c?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/firefox/addon/vortex-downloader/)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Manifest%20V3-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vortexdownloader.org/docs/browser-extension/)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.2.1%20Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
 [![License](https://img.shields.io/badge/License-Freeware-purple?style=for-the-badge)](https://vortexdownloader.org/#pricing)
 
 [🌐 Official Website](https://vortexdownloader.org) • [📚 Documentation Hub](https://vortexdownloader.org/docs/) • [⚡ Vortex vs IDM Benchmark](https://vortexdownloader.org/blog/vortex-vs-idm/) • [🐛 Report an Issue](https://github.com/Hammadshaikh1994/vortex-downloader/issues)
@@ -39,7 +39,7 @@ Unlike legacy download managers engineered in the early 2000s, Vortex utilizes a
 
 ## 📊 Benchmark: Vortex vs Legacy Download Managers
 
-| Feature / Metric | Vortex Downloader (v1.1.1) | Internet Download Manager (IDM) | Traditional Browser |
+| Feature / Metric | Vortex Downloader (v1.1.2) | Internet Download Manager (IDM) | Traditional Browser |
 | :--- | :--- | :--- | :--- |
 | **Max Concurrent Streams** | **⚡ 32 Dynamic Streams** | 16 Static Connections | 1 Single Stream |
 | **Slicing Architecture** | **Dynamic Work-Stealing** | Fixed Segment Partition | None |
@@ -59,7 +59,7 @@ Unlike legacy download managers engineered in the early 2000s, Vortex utilizes a
 
 ### Option 1: Direct Official Installer (Recommended)
 Download the latest verified Windows 64-bit installer:
-* **[⬇️ Download Vortex Downloader v1.1.1 (.exe)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)**
+* **[⬇️ Download Vortex Downloader v1.1.2 (.exe)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)**
 
 ### System Requirements
 * **Operating System:** Windows 10 / Windows 11 (64-bit)
@@ -76,7 +76,8 @@ Explore the official [Vortex Documentation Hub](https://vortexdownloader.org/doc
 * [🎥 8K Video Extraction Guide](https://vortexdownloader.org/docs/download-videos/)
 * [🧲 BitTorrent Swarm Engine Guide](https://vortexdownloader.org/docs/torrent-engine/)
 * [🎬 In-App Media Streamer & Player](https://vortexdownloader.org/docs/media-player/)
-* [🧩 Browser Companion Extension Setup](https://vortexdownloader.org/docs/browser-extension/)
+* [🧩 Chrome Web Store Extension (Official)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
+* [🦊 Firefox AMO Companion Add-on](https://addons.mozilla.org/firefox/addon/vortex-downloader/)
 * [💎 Pro Edition & Licensing](https://vortexdownloader.org/#pricing)
 
 ---
