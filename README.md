@@ -4,7 +4,9 @@
 
 **The Universal High-Velocity Multi-Thread Accelerator, 8K Stream Sniffer & Media Workstation for Windows**
 
-[![Release](https://img.shields.io/badge/Release-v1.1.2%20Stable-9333ea?style=for-the-badge&logo=windows&logoColor=white)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)
+[![Release](https://img.shields.io/badge/Release-v1.1.3%20Stable-9333ea?style=for-the-badge&logo=windows&logoColor=white)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F58%20Clean-10b981?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/e61d27deb21de588a57167d8a85dacf7cf324f33a6375e0df10235a48c041c39?nocache=1)
+[![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-Certified%20Clean-00a4ef?style=for-the-badge&logo=windows&logoColor=white)](https://vortexdownloader.org/docs/releases/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-3b82f6?style=for-the-badge&logo=windows11&logoColor=white)](https://vortexdownloader.org/)
 [![Mozilla AMO](https://img.shields.io/badge/Firefox%20AMO-v1.2.0%20Verified-ea580c?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/firefox/addon/vortex-downloader/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.2.1%20Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
@@ -25,6 +27,16 @@ Unlike legacy download managers engineered in the early 2000s, Vortex utilizes a
 
 ---
 
+## 🚀 What's New in v1.1.3 (September 2026)
+
+* **Enhanced Multi-Site Media Streaming Engine:** Upgraded direct media sniffing and dynamic redirect resolution across complex video hosting platforms, video CDNs, and direct file hosts.
+* **Stream Endpoint Normalization:** Automatic handling for non-standard media URLs, query signatures, and trailing slashes (`.mp4/`) with 30s connection resilience buffers.
+* **Custom URL Protocol Integration (`vortex://`):** Replaced legacy helper host components with clean, native Windows user-space custom URL protocol handlers.
+* **Seamless Discord/Spotify Startup Architecture:** Standardized per-user `%LOCALAPPDATA%` execution without administrator UAC elevation prompts and unified single-process tree startup management.
+* **Antivirus & Cloud Reputation Cleared:** 100% clean (0/58 detections) on VirusTotal and certified with zero malware detections by Microsoft Defender Cloud Security Intelligence.
+
+---
+
 ## ⚡ Key Highlights & Acceleration Engines
 
 * **🚀 32-Stream Parallel Multi-Threading:** Dynamic byte-level work-stealing maximizes gigabit broadband throughput without manual segment halving.
@@ -40,7 +52,7 @@ Unlike legacy download managers engineered in the early 2000s, Vortex utilizes a
 
 ## 📊 Benchmark: Vortex vs Legacy Download Managers
 
-| Feature / Metric | Vortex Downloader (v1.1.2) | Internet Download Manager (IDM) | Traditional Browser |
+| Feature / Metric | Vortex Downloader (v1.1.3) | Internet Download Manager (IDM) | Traditional Browser |
 | :--- | :--- | :--- | :--- |
 | **Max Concurrent Streams** | **⚡ 32 Dynamic Streams** | 16 Static Connections | 1 Single Stream |
 | **Slicing Architecture** | **Dynamic Work-Stealing** | Fixed Segment Partition | None |
@@ -60,7 +72,13 @@ Unlike legacy download managers engineered in the early 2000s, Vortex utilizes a
 
 ### Option 1: Direct Official Installer (Recommended)
 Download the latest verified Windows 64-bit installer:
-* **[⬇️ Download Vortex Downloader v1.1.2 (.exe)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)**
+* **[⬇️ Download Vortex Downloader v1.1.3 (.exe)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)**
+
+### Checksums & Verification
+* **Version:** 1.1.3 Stable
+* **SHA-256 Checksum:** `E61D27DEB21DE588A57167D8A85DACF7CF324F33A6375E0DF10235A48C041C39`
+* **VirusTotal Result:** [0/58 Security Vendors Clean](https://www.virustotal.com/gui/file/e61d27deb21de588a57167d8a85dacf7cf324f33a6375e0df10235a48c041c39?nocache=1)
+* **Microsoft Defender:** Certified Clean (WDSI Cloud Verified)
 
 ### System Requirements
 * **Operating System:** Windows 10 / Windows 11 (64-bit)
@@ -86,6 +104,7 @@ Explore the official [Vortex Documentation Hub](https://vortexdownloader.org/doc
 ## 🛡️ Security, Privacy & Integrity
 
 * **Zero Data Telemetry:** Vortex does not harvest browsing logs, personal identifiers, or downloaded content metadata.
+* **Antivirus Certified:** 100% clean detection profile across all major commercial antivirus engines on VirusTotal and Microsoft WDSI.
 * **Knowledge Graph Entity:** Officially cataloged in the open knowledge base on [Wikidata (Q141496440)](https://www.wikidata.org/wiki/Q141496440).
 * **Official Support Email:** [support@vortexdownloader.org](mailto:support@vortexdownloader.org)
 * **Website:** [https://vortexdownloader.org](https://vortexdownloader.org)
