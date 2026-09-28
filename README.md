@@ -10,6 +10,8 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-3b82f6?style=for-the-badge&logo=windows11&logoColor=white)](https://vortexdownloader.org/)
 [![Mozilla AMO](https://img.shields.io/badge/Firefox%20AMO-v1.2.0%20Verified-ea580c?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/firefox/addon/vortex-downloader/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.2.1%20Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
+[![Winget](https://img.shields.io/badge/Winget-v1.1.3%20Verified-0078d4?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/microsoft/winget-pkgs/pull/442683)
+[![Chocolatey](https://img.shields.io/badge/Chocolatey-v1.1.3%20Package-80b5ea?style=for-the-badge&logo=chocolatey&logoColor=white)](https://community.chocolatey.org/packages/vortex-downloader)
 [![License](https://img.shields.io/badge/License-Freeware-purple?style=for-the-badge)](https://vortexdownloader.org/#pricing)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141496440-006699?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141496440)
 
@@ -73,6 +75,23 @@ Unlike legacy download managers engineered in the early 2000s, Vortex utilizes a
 ### Option 1: Direct Official Installer (Recommended)
 Download the latest verified Windows 64-bit installer:
 * **[⬇️ Download Vortex Downloader v1.1.3 (.exe)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)**
+
+### Option 2: Windows Package Manager (winget)
+Install silently through Microsoft's official Windows Package Manager:
+```powershell
+winget install VortexDownloader.VortexDownloader
+```
+*Or use the short package moniker:*
+```powershell
+winget install vortex
+```
+> 🛡️ *Verified through [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs/pull/442683) with automated Azure Pipeline validation and Microsoft SmartScreen clearance.*
+
+### Option 3: Chocolatey
+Install via Chocolatey:
+```powershell
+choco install vortex-downloader
+```
 
 ### Checksums & Verification
 * **Version:** 1.1.3 Stable
