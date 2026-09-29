@@ -12,6 +12,7 @@
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.2.2%20Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
 [![Winget](https://img.shields.io/badge/Winget-v1.1.3%20Verified-0078d4?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/microsoft/winget-pkgs/pull/442683)
 [![Chocolatey](https://img.shields.io/badge/Chocolatey-v1.1.3%20Package-80b5ea?style=for-the-badge&logo=chocolatey&logoColor=white)](https://community.chocolatey.org/packages/vortex-downloader)
+[![Scoop](https://img.shields.io/badge/Scoop-v1.1.3%20Bucket-43853d?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/Hammadshaikh1994/scoop-vortex)
 [![License](https://img.shields.io/badge/License-Freeware-purple?style=for-the-badge)](https://vortexdownloader.org/#pricing)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141496440-006699?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141496440)
 
@@ -91,6 +92,13 @@ winget install vortex
 Install via Chocolatey:
 ```powershell
 choco install vortex-downloader
+```
+
+### Option 4: Scoop
+Install portable package via Scoop:
+```powershell
+scoop bucket add vortex https://github.com/Hammadshaikh1994/scoop-vortex
+scoop install vortex
 ```
 
 ### Checksums & Verification
