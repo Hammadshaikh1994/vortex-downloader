@@ -5,18 +5,21 @@
 **The Universal High-Velocity Multi-Thread Accelerator, 8K Stream Sniffer & Media Workstation for Windows**
 
 [![Release](https://img.shields.io/badge/Release-v1.1.3%20Stable-9333ea?style=for-the-badge&logo=windows&logoColor=white)](https://vortexdownloader.org/downloads/Vortex-Downloader-Setup.exe)
+[![Zenodo DOI](https://img.shields.io/badge/Zenodo%20DOI-10.5281%2Fzenodo.23124980-024285?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23124980)
+[![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-doi%3A10.7910%2FDVN%2FEZ1KXS-a51c30?style=for-the-badge)](https://doi.org/10.7910/DVN/EZ1KXS)
+[![OpenAIRE](https://img.shields.io/badge/OpenAIRE-Indexed%20Graph-1b365d?style=for-the-badge)](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.23124980)
+[![Software Heritage](https://img.shields.io/badge/Software%20Heritage-Archived-b31b1b?style=for-the-badge)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Hammadshaikh1994/vortex-downloader)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4383--9913-a6ce39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4383-9913)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F58%20Clean-10b981?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/e61d27deb21de588a57167d8a85dacf7cf324f33a6375e0df10235a48c041c39?nocache=1)
-[![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-Certified%20Clean-00a4ef?style=for-the-badge&logo=windows&logoColor=white)](https://vortexdownloader.org/docs/releases/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-3b82f6?style=for-the-badge&logo=windows11&logoColor=white)](https://vortexdownloader.org/)
 [![Mozilla AMO](https://img.shields.io/badge/Firefox%20AMO-v1.2.0%20Verified-ea580c?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://addons.mozilla.org/firefox/addon/vortex-downloader/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-v1.2.2%20Live-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
 [![Winget](https://img.shields.io/badge/Winget-v1.1.3%20Verified-0078d4?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/microsoft/winget-pkgs/pull/442683)
 [![Chocolatey](https://img.shields.io/badge/Chocolatey-v1.1.3%20Package-80b5ea?style=for-the-badge&logo=chocolatey&logoColor=white)](https://community.chocolatey.org/packages/vortex-downloader)
 [![Scoop](https://img.shields.io/badge/Scoop-v1.1.3%20Bucket-43853d?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/Hammadshaikh1994/scoop-vortex)
-[![License](https://img.shields.io/badge/License-Freeware-purple?style=for-the-badge)](https://vortexdownloader.org/#pricing)
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q141496440-006699?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141496440)
 
-[🌐 Official Website](https://vortexdownloader.org) • [📚 Documentation Hub](https://vortexdownloader.org/docs/) • [⚡ Vortex vs IDM Benchmark](https://vortexdownloader.org/blog/vortex-vs-idm/) • [🏛️ Wikidata Knowledge Base](https://www.wikidata.org/wiki/Q141496440) • [🐛 Report an Issue](https://github.com/Hammadshaikh1994/vortex-downloader/issues)
+[🌐 Official Website](https://vortexdownloader.org) • [📚 Docs Hub](https://vortexdownloader.org/docs/) • [🔬 Zenodo Dataset](https://doi.org/10.5281/zenodo.23124980) • [🏛️ Harvard Dataverse](https://doi.org/10.7910/DVN/EZ1KXS) • [🌐 OpenAIRE Graph](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.23124980) • [🏛️ Wikidata](https://www.wikidata.org/wiki/Q141496440) • [👨‍💻 Author ORCID](https://orcid.org/0009-0007-4383-9913) • [⚡ Vortex vs IDM](https://vortexdownloader.org/blog/vortex-vs-idm/)
 
 ---
 
@@ -125,6 +128,34 @@ Explore the official [Vortex Documentation Hub](https://vortexdownloader.org/doc
 * [🧩 Chrome Web Store Extension (Official)](https://chromewebstore.google.com/detail/vortex-downloader/hfjgdegdjanchohongmenofgiljindec)
 * [🦊 Firefox AMO Companion Add-on](https://addons.mozilla.org/firefox/addon/vortex-downloader/)
 * [💎 Pro Edition & Licensing](https://vortexdownloader.org/#pricing)
+
+---
+
+## 🔬 Open Science, Academic Datasets & Persistent Identifiers (PIDs)
+
+The transport-layer throughput optimization models, multi-threaded TCP range slicing algorithms, and longitudinal bandwidth saturation benchmarks powering Vortex Downloader are preserved and publicly accessible across global open-science digital archives:
+
+| Scientific Infrastructure | Persistent Identifier (PID) / Canonical Link | Record Type & Ingestion Scope |
+| :--- | :--- | :--- |
+| **CERN / Zenodo** | [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23124980-blue.svg)](https://doi.org/10.5281/zenodo.23124980) | Longitudinal Empirical Benchmark Dataset (2024–2026) |
+| **Harvard Dataverse** | [![DOI](https://img.shields.io/badge/DOI-10.7910%2FDVN%2FEZ1KXS-a51c30.svg)](https://doi.org/10.7910/DVN/EZ1KXS) | Open Data Repository (Vortex Downloader Dataverse) |
+| **European Open Science (OpenAIRE)** | [explore.openaire.eu / 10.5281/zenodo.23124980](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.23124980) | European Open Access Research Graph Index |
+| **Software Heritage Universal Archive** | [SWH Origin / vortex-downloader](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Hammadshaikh1994/vortex-downloader) | Permanent Source Code Snapshot & Digital Preservation |
+| **Wikidata Semantic Entity** | [Wikidata Q141496440](https://www.wikidata.org/wiki/Q141496440) | Structured Knowledge Graph (Wikimedia Foundation) |
+| **Lead Architect ORCID** | [0009-0007-4383-9913 (Hammad Shaikh)](https://orcid.org/0009-0007-4383-9913) | Verified Author & Systems Engineering Identifier |
+
+### 📖 How to Cite Vortex Downloader Research Data
+```bibtex
+@dataset{shaikh_2026_zenodo_23124980,
+  author       = {Shaikh, Hammad},
+  title        = {{Global Broadband Multi-Threaded TCP Slicing & RFC 9110 Range Request Performance Index (2024-2026)}},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.23124980},
+  url          = {https://doi.org/10.5281/zenodo.23124980}
+}
+```
 
 ---
 
